@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Prueba técnica Equilibrha</title>
+    <h1>Prueba técnica Equilibrha</h1>
 </head>
 
 <body>
